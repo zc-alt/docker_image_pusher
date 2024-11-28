@@ -1,1 +1,1 @@
-apache/apisix:3.11.0-debian
+arm64v8/python:3.8-slim

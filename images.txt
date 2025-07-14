@@ -1,1 +1,1 @@
-redis:latest
+python:3.6-slim

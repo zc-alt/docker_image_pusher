@@ -1,1 +1,1 @@
-node:18
+--platform linux/arm64 python:3.6

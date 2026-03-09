@@ -1,1 +1,1 @@
---platform linux/arm64 python:3.8.1
+--platform kylin:v10

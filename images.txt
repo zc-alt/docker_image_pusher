@@ -1,1 +1,1 @@
---platform kylin:v10
+--platform macrosan/kylin:v10-sp3

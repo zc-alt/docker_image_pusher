@@ -1,1 +1,1 @@
---platform opstool/kylin:v10-sp1-x86_64
+--platform python3.8

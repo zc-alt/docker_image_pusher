@@ -1,1 +1,1 @@
---platform python3.8
+python:3.8.19-slim-bullseye

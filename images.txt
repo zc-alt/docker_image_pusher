@@ -1,1 +1,1 @@
-container-registry.oracle.com/database/free:latest
+node:22.22.2

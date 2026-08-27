@@ -1,1 +1,1 @@
-python:3.12.13-slim
+python:3.12.12-slim-trixie
